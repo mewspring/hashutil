@@ -1,7 +1,8 @@
 hashutil
 ========
 
-This package provides utility interfaces for hash functions.
+These packages provides utility interfaces for hash functions, and implements
+CRC-8 and CRC-16.
 
 Documentation
 -------------
