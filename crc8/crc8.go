@@ -7,9 +7,7 @@
 // http://www.ross.net/crc/download/crc_v3.txt for information.
 package crc8
 
-import (
-	"github.com/mewkiz/pkg/hashutil"
-)
+import "gopkg.in/mewpkg/hashutil.v1"
 
 // The size of a CRC-8 checksum in bytes.
 const Size = 1

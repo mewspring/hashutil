@@ -1,9 +1,7 @@
 // Package hashutil provides utility interfaces for hash functions.
 package hashutil
 
-import (
-	"hash"
-)
+import "hash"
 
 // Hash8 is the common interface implemented by all 8-bit hash functions.
 type Hash8 interface {
