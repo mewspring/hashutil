@@ -1,6 +1,10 @@
 hashutil
 ========
 
+[![Build Status](https://travis-ci.org/mewpkg/hashutil.svg?branch=master)](https://travis-ci.org/mewpkg/hashutil)
+[![Coverage Status](https://img.shields.io/coveralls/mewpkg/hashutil.svg)](https://coveralls.io/r/mewpkg/hashutil?branch=master)
+[![GoDoc](https://godoc.org/github.com/mewpkg/hashutil?status.svg)](https://godoc.org/github.com/mewpkg/hashutil)
+
 These packages provides utility interfaces for hash functions, and implements
 CRC-8 and CRC-16.
 
