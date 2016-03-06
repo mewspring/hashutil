@@ -9,7 +9,7 @@ package crc8
 
 import "github.com/mewpkg/hashutil"
 
-// The size of a CRC-8 checksum in bytes.
+// Size of a CRC-8 checksum in bytes.
 const Size = 1
 
 // Predefined polynomials.

@@ -9,7 +9,7 @@ package crc16
 
 import "github.com/mewpkg/hashutil"
 
-// The size of a CRC-16 checksum in bytes.
+// Size of a CRC-16 checksum in bytes.
 const Size = 2
 
 // Predefined polynomials.
